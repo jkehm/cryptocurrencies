@@ -14,3 +14,15 @@ In this challenge the four deliverables were
 2. Reducing Data Dimensions Using PCA
 3. Clustering Cryptocurrencies Using K-Means
 4. Visualizing Cryptocurrencies Results
+
+### Visualizations
+
+![3d plot with no hover](https://github.com/jkehm/cryptocurrencies/blob/main/images/3d_scatter.png)
+
+The above image shows the clusters being plotted with a 3D scater plot. When the user hovers over the graph, the CoinName and Algorithm are also visible. This can be seen in the following image.
+![3d plot with hover](https://github.com/jkehm/cryptocurrencies/blob/main/images/3d_scatter_with_hover.png)
+
+![2d plot](https://github.com/jkehm/cryptocurrencies/blob/main/images/hvplot_scatter.png)
+
+The 2D scatterplot shows the Total Coins Mined on the X-axis, with the Total Coin Supply on the Y-Axis. The image below shows that the Coin Name is visible whenthe user hovers over a data point.
+![2d plot with hover](https://github.com/jkehm/cryptocurrencies/blob/main/images/hvplot_scatter_with%20hover.png)
